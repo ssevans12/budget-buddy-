@@ -16,6 +16,11 @@ header {
     text-align: center;
 }
 
+#budget-display {
+    text-align: center;
+    margin-top: 10px;
+}
+
 #category-section {
     height: auto;
 }
